@@ -8,5 +8,5 @@ Little Lemon restaurant app
 > pipenv install
 > py manage.py makemigrations
 > py manage.py migrate
-> > py manage.py runserver
+> py manage.py runserver
 ```
