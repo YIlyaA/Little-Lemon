@@ -1,5 +1,5 @@
 # Little-Lemon
-Little Lemon restaurant app 
+Little Lemon restaurant app using DJANGO, DRF
 
 
 ## Instalation (Windows)
